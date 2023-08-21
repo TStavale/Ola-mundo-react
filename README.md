@@ -1,12 +1,16 @@
 # Olá Mundo!
 
-![Badge em Finalizado](http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&color=red&style=for-the-badge)
+![Badge em Finalizado](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=red&style=for-the-badge)
 
 
 <h2>Descrição do Projeto</h2>
 
 <p>
 Projeto criado para desenvolver as habilidades em react, principalmente na criação e utilização de componentes. O Olá mundo, seria um blog pessoal com diversos cards e posts, cada um com seu artigo correspondente.
+
+A construção da página em SPA(Single Page Application), utilizando o REACT ROUTER DOM. Além disso foi utilizado o recursod e rotas aninhadas.
+
+Caso, na barra do navegador seja digitado uma rota invalida, será apresentado uma página de erro (página não encontrada).
          
 </p>
 
